@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Debbie Wu!  
+# 👋 Hi, I'm Yaping Wu!  
 **Portfolio Manager | AI in Finance | Data Science | Risk Analysis**  
 
-🔹 **Experience:** 7+ years in Asset Management, Product Development, and Corporate Banking.  
+🔹 **Experience:** 8+ years in Asset Management, Product Development, and Corporate Banking.  
 🔹 **Technical Skills:** Python | SQL | Tableau | AI & Machine Learning | NLP | Monte Carlo Simulations  
 🔹 **Certifications:** IBM Data Science | CAIA (in Progress) | Microsoft Azure AI Fundamentals  
 
@@ -10,13 +10,13 @@
 ---
 
 ## 🚀 Featured Projects  
-🔹 **[Market Sentiment Analysis using NLP](https://github.com/YOUR_PROJECT_LINK)**  
+🔹 **[Market Sentiment Analysis using NLP]**  
 📌 Analyzed financial news & tweets to predict stock market trends using NLP.  
 
-🔹 **[Portfolio Optimization with Monte Carlo](https://github.com/YOUR_PROJECT_LINK)**  
+🔹 **[Portfolio Optimization with Monte Carlo]**  
 📌 Simulated risk-adjusted returns using Monte Carlo methods for asset allocation.  
 
-🔹 **[AI-Powered Financial Reporting](https://github.com/YOUR_PROJECT_LINK)**  
+🔹 **[AI-Powered Financial Reporting]**  
 📌 Automated financial data extraction and report generation using AI.
 
 ---
