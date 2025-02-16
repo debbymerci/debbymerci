@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Debbie Wu!  
+**Portfolio Manager | AI in Finance | Data Science | Risk Analysis**  
 
-<!--
-**debbymerci/debbymerci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Experience:** 7+ years in Asset Management, Product Development, and Corporate Banking.  
+🔹 **Technical Skills:** Python | SQL | Tableau | AI & Machine Learning | NLP | Monte Carlo Simulations  
+🔹 **Certifications:** IBM Data Science | CAIA (in Progress) | Microsoft Azure AI Fundamentals  
 
-Here are some ideas to get you started:
+💡 I specialize in leveraging **AI & Data Science for financial risk management and investment optimization**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects  
+🔹 **[Market Sentiment Analysis using NLP](https://github.com/YOUR_PROJECT_LINK)**  
+📌 Analyzed financial news & tweets to predict stock market trends using NLP.  
+
+🔹 **[Portfolio Optimization with Monte Carlo](https://github.com/YOUR_PROJECT_LINK)**  
+📌 Simulated risk-adjusted returns using Monte Carlo methods for asset allocation.  
+
+🔹 **[AI-Powered Financial Reporting](https://github.com/YOUR_PROJECT_LINK)**  
+📌 Automated financial data extraction and report generation using AI.
+
+---
+
+## 📫 Connect with Me:  
+🌍 Singapore  
+📩 [LinkedIn](https://www.linkedin.com/in/yapingwu)  
+📊 [GitHub](https://github.com/debbymerci)  
